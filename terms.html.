@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Terms of Service — THIẾT KẾ MENU</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 850px;
+      margin: 0 auto;
+      padding: 60px 24px;
+      line-height: 1.7;
+      color: #202124;
+    }
+    h1, h2 { color: #111; }
+    h2 { margin-top: 36px; }
+    a { color: #3157c8; }
+  </style>
+</head>
+
+<body>
+
+<h1>Terms of Service</h1>
+
+<p><strong>THIẾT KẾ MENU</strong></p>
+<p>Last updated: October 7, 2026</p>
+
+<h2>About the service</h2>
+
+<p>
+THIẾT KẾ MENU is a ChatGPT plugin that assists users with menu
+design, menu data review, concept development, editing and
+production-oriented menu preparation.
+</p>
+
+<h2>User-provided content</h2>
+
+<p>
+Users are responsible for ensuring that they have the right to use
+the text, images, logos, photographs, trademarks and other materials
+they provide for processing.
+</p>
+
+<h2>Accuracy</h2>
+
+<p>
+The plugin is designed to preserve menu information such as item
+names and prices. However, users should review all generated or
+edited content before using it for printing, publication or
+commercial purposes.
+</p>
+
+<h2>Generated designs</h2>
+
+<p>
+Concept previews and AI-generated visual materials are intended to
+assist with design exploration. A Concept Preview should not be
+treated as final production artwork unless it has been reviewed and
+prepared for final use.
+</p>
+
+<h2>Availability</h2>
+
+<p>
+Features and capabilities may depend on the ChatGPT environment,
+available tools and supported functionality.
+</p>
+
+<h2>Changes</h2>
+
+<p>
+These Terms of Service may be updated as the plugin and its
+functionality evolve.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+For questions or support regarding THIẾT KẾ MENU, please use the
+<a href="support.html">Support page</a>.
+</p>
+
+<p><a href="index.html">← Back to THIẾT KẾ MENU</a></p>
+
+</body>
+</html>
